@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andresdelyukon
 - 👀 I’m interested in data science, web desing, coding and biotechnology
-- 🌱 I’m currently learning data structures on C++ and data analys
+- 🌱 I’m currently learning data structures on C++ and data analysis
 - 💞️ I’m looking to collaborate on proyects related to data science
 - 📫 How to reach me calvinocornejo@gmail.com
 
